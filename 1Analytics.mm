@@ -71,6 +71,16 @@
 </node>
 </node>
 </node>
+<node CREATED="1500572266487" ID="ID_1422407627" MODIFIED="1500573082288" TEXT="syllogism">
+<node CREATED="1500572280003" ID="ID_1515795397" MODIFIED="1500572529036" TEXT="def">
+<font NAME="SansSerif" SIZE="10"/>
+<node CREATED="1500572531614" ID="ID_1752116772" MODIFIED="1500572880981" TEXT="a VALID deductive &apos;argument&apos; taking a specific form of 3 lines"/>
+<node CREATED="1500573103214" ID="ID_31915346" MODIFIED="1500573126999" TEXT="the conclusion must be different from the premises"/>
+<node CREATED="1500573355072" ID="ID_65127444" MODIFIED="1500573377781" TEXT="unclear if a conversion is a syllogism"/>
+<node CREATED="1500573082914" ID="ID_392594521" MODIFIED="1500573237605" TEXT="must have more than one premise or be convertable to one with more than one premise or be a petito principii"/>
+<node CREATED="1500572882616" ID="ID_1377787526" MODIFIED="1500572897158" TEXT="to be contrasted with inductive arguments"/>
+</node>
+</node>
 </node>
 </node>
 </map>
