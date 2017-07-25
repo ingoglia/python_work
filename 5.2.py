@@ -15,7 +15,7 @@ print(3 == 2)
 print('is 3 > 2?')
 print(3 > 2)
 
-print('is 3>= 2?')
+print('is 3 >= 2?')
 print(3 >= 2)
 
 print("I don't think that 8 = 4")
