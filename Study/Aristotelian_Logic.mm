@@ -17,8 +17,9 @@
 </node>
 <node CREATED="1501006741485" ID="ID_882590816" MODIFIED="1501006766716" TEXT="Essentialism and homonymy">
 <node CREATED="1501006773035" ID="ID_1278945336" MODIFIED="1501006928251" TEXT="essentialism is the belief that everything has an &apos;essense&apos; or set of properties that if one of them were to be lost, that entity would no longer exist"/>
-<node CREATED="1501045529096" ID="ID_516607535" MODIFIED="1501045616862" TEXT="homonyms are 2 words that are spelled the same and spoken the same but have different meanings"/>
+<node CREATED="1501045529096" ID="ID_516607535" MODIFIED="1501046298534" TEXT="homonym proceeds synonym in strength"/>
 <node CREATED="1501045620616" ID="ID_545033691" MODIFIED="1501045640758" TEXT="synonyms are the opposite of homonyms"/>
+<node CREATED="1501046016245" ID="ID_914937447" MODIFIED="1501046048876" TEXT="note that a synonym for aristotle is if one usage of a word is the same as another"/>
 <node CREATED="1501045669136" ID="ID_12622020" MODIFIED="1501045698590" TEXT="multivocity = homonymy"/>
 <node CREATED="1501045701775" ID="ID_124525411" MODIFIED="1501045730013" TEXT="univocity = synonym"/>
 </node>
