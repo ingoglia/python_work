@@ -8,7 +8,7 @@
 <node CREATED="1500675995876" ID="ID_552155874" MODIFIED="1500676038292" TEXT="Topics"/>
 <node CREATED="1500676005300" ID="ID_385941196" MODIFIED="1500676049687" TEXT="On Sophistical Refutations"/>
 </node>
-<node CREATED="1500676063484" FOLDED="true" ID="ID_526395502" MODIFIED="1501111563809" POSITION="left" TEXT="Key Concepts">
+<node CREATED="1500676063484" ID="ID_526395502" MODIFIED="1501194048749" POSITION="left" TEXT="Key Concepts">
 <node CREATED="1501005907882" FOLDED="true" ID="ID_243717162" MODIFIED="1501110920746" TEXT="endoxa and phainomena">
 <node CREATED="1501005922807" ID="ID_80854334" MODIFIED="1501110363288" TEXT="endoxa">
 <node CREATED="1501108944905" ID="ID_51492183" MODIFIED="1501108953830" TEXT="def">
@@ -41,13 +41,26 @@
 </node>
 <node CREATED="1501110886951" ID="ID_502325093" MODIFIED="1501110914582" TEXT="takes as a given that one should not be skeptical of ones senses"/>
 </node>
-<node CREATED="1501006741485" FOLDED="true" ID="ID_882590816" MODIFIED="1501108925941" TEXT="Essentialism and homonymy">
+<node CREATED="1501006741485" ID="ID_882590816" MODIFIED="1501194050500" TEXT="Essentialism and homonymy">
+<node CREATED="1501195473855" ID="ID_579815546" MODIFIED="1501195481808" TEXT="Essentialism">
 <node CREATED="1501006773035" ID="ID_1278945336" MODIFIED="1501006928251" TEXT="essentialism is the belief that everything has an &apos;essense&apos; or set of properties that if one of them were to be lost, that entity would no longer exist"/>
-<node CREATED="1501045529096" ID="ID_516607535" MODIFIED="1501046298534" TEXT="homonym proceeds synonym in strength"/>
+<node CREATED="1501194502301" ID="ID_1489444148" MODIFIED="1501194559796" TEXT="essence = what is unique to being that thing which cannot be removed"/>
+<node CREATED="1501195362980" ID="ID_1220677154" MODIFIED="1501195398443" TEXT="believes that essence of a kind can be discovered and KNOWN by dialectic"/>
+<node CREATED="1501194739272" ID="ID_1529761804" MODIFIED="1501194753798" TEXT="Modal vs Aristotelian essentialism">
+<node CREATED="1501194763636" ID="ID_1670194729" MODIFIED="1501194834661" TEXT="modal only assumes that if something loses a essence, that it will cease to exist"/>
+<node CREATED="1501194838155" ID="ID_1729082352" MODIFIED="1501194913941" TEXT="Aristotelian essentialism also states that an essence, if not contingent on another, is a primary essence">
+<node CREATED="1501195267797" ID="ID_1893319303" MODIFIED="1501195296941" TEXT="allows him to exclude extra cases of essence that might be particular"/>
+</node>
+</node>
+<node CREATED="1501195164123" ID="ID_506841612" MODIFIED="1501195198467" TEXT="a &apos;kind&apos; is a particular of a universal (Alex is a kind of the human)"/>
+</node>
+<node CREATED="1501195505969" ID="ID_631064913" MODIFIED="1501195512399" TEXT="homonymy">
 <node CREATED="1501045620616" ID="ID_545033691" MODIFIED="1501045640758" TEXT="synonyms are the opposite of homonyms"/>
 <node CREATED="1501046016245" ID="ID_914937447" MODIFIED="1501046048876" TEXT="note that a synonym for aristotle is if one usage of a word is the same as another"/>
 <node CREATED="1501045669136" ID="ID_12622020" MODIFIED="1501045698590" TEXT="multivocity = homonymy"/>
 <node CREATED="1501045701775" ID="ID_124525411" MODIFIED="1501045730013" TEXT="univocity = synonym"/>
+<node CREATED="1501195531433" ID="ID_904913045" MODIFIED="1501198690299" TEXT="Aristotle denies Platonic essentialism, arguing that sameness and invarience are homonyms"/>
+</node>
 </node>
 </node>
 <node CREATED="1500676122437" FOLDED="true" ID="ID_1676528214" MODIFIED="1501108398311" POSITION="right" TEXT="Historical Background">
@@ -63,8 +76,8 @@
 <node CREATED="1500677102809" ID="ID_490065879" MODIFIED="1500677148140" TEXT="Thomas Aquinas makes Aristotle popular again in the early 1200&apos;s"/>
 </node>
 </node>
-<node CREATED="1501006075625" FOLDED="true" ID="ID_1644908462" MODIFIED="1501114842310" POSITION="left" TEXT="types of reasoning">
-<node CREATED="1501006090240" ID="ID_1641350830" MODIFIED="1501114455550" TEXT="dialectical">
+<node CREATED="1501006075625" ID="ID_1644908462" MODIFIED="1501193975964" POSITION="left" TEXT="types of reasoning">
+<node CREATED="1501006090240" FOLDED="true" ID="ID_1641350830" MODIFIED="1501194044467" TEXT="dialectical">
 <node CREATED="1501006337248" ID="ID_177637119" MODIFIED="1501111399583" TEXT="must respect inference and logical rules"/>
 <node CREATED="1501111278963" ID="ID_1011637328" MODIFIED="1501111366252" TEXT="can rely soley on endoxa unlike scientific reasoning"/>
 <node CREATED="1501006388039" ID="ID_1425721945" MODIFIED="1501006395637" TEXT="&apos;Topics&apos;"/>
