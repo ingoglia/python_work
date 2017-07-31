@@ -228,7 +228,7 @@
 <node CREATED="1501352979615" ID="ID_1431848522" MODIFIED="1501353023717" TEXT="there is not fundamental property of &apos;being&apos; because &apos;not-being&apos; is not a possible property"/>
 </node>
 </node>
-<node CREATED="1501526365093" ID="ID_1086471827" MODIFIED="1501526375675" POSITION="left" TEXT="teleology">
+<node CREATED="1501526365093" FOLDED="true" ID="ID_1086471827" MODIFIED="1501533103719" POSITION="left" TEXT="teleology">
 <node CREATED="1501526508330" ID="ID_1853735815" MODIFIED="1501526534492" TEXT="operative cause">
 <node CREATED="1501526515352" ID="ID_1822412189" MODIFIED="1501526561122" TEXT="a cause which might not be the entire cause, but contributes to the cause"/>
 </node>
@@ -236,11 +236,21 @@
 <node CREATED="1501526696526" ID="ID_711325544" MODIFIED="1501526750600" TEXT="prior conditions, events, entities considered to have caused a thing"/>
 </node>
 <node CREATED="1501527025207" ID="ID_52718939" MODIFIED="1501527098269" TEXT="theory of forms fails because it does not account for change and generation"/>
+<node CREATED="1501531577618" ID="ID_372781015" MODIFIED="1501531601449" TEXT="events happen either by chance or for a reason exhaustively"/>
+<node CREATED="1501531643601" ID="ID_788686385" MODIFIED="1501531683605" TEXT="something that results from a regular and predictable occurance cannot be due to chance"/>
+<node CREATED="1501531995666" ID="ID_27754398" MODIFIED="1501532059803" TEXT="regularity in nature is not an instance of chance and so it is a phainomena that we can use to found the concept of final cause"/>
 <node CREATED="1501527235142" ID="ID_313678919" MODIFIED="1501527258133" TEXT="potentialities are made actual by actualities"/>
+<node CREATED="1501532228805" ID="ID_1801155762" MODIFIED="1501532277927" TEXT="&apos;occur always and for the most part&apos; = &apos;has a regularity and so must not be caused by chance&apos;"/>
 <node CREATED="1501527342629" ID="ID_1626458483" MODIFIED="1501527356875" TEXT="nature exhibits teleogy without design"/>
 <node CREATED="1501527420260" ID="ID_946595428" MODIFIED="1501527451250" TEXT="not only are teeth for chewing food, but people are for a specific thing as well"/>
 <node CREATED="1501527485636" ID="ID_1465799836" MODIFIED="1501527503730" TEXT="humans are designed... but not by a designer with a specific intention"/>
 </node>
-<node CREATED="1501527021799" ID="ID_535495180" MODIFIED="1501527021799" POSITION="left" TEXT=""/>
+<node CREATED="1501527021799" ID="ID_535495180" MODIFIED="1501533222575" POSITION="left" TEXT="Substance">
+<node CREATED="1501533112779" FOLDED="true" ID="ID_1702963537" MODIFIED="1501533223153" TEXT="is form">
+<node CREATED="1501533173950" ID="ID_1383414387" MODIFIED="1501533181817" TEXT="form is knowable and particular"/>
+</node>
+<node CREATED="1501533223513" ID="ID_1244754918" MODIFIED="1501533242058" TEXT="a matter is potential until made actual by a form"/>
+<node CREATED="1501533338797" ID="ID_1082384369" MODIFIED="1501533399738" TEXT="form is the primary cause of a thing... for a thing might be broken apart into many pieces of matter... all of those things would not be that thing... it is the composition of those things together with the &apos;extra&apos; that make the thing existant"/>
+</node>
 </node>
 </map>
