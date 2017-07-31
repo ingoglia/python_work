@@ -8,66 +8,6 @@
 <node CREATED="1500675995876" ID="ID_552155874" MODIFIED="1500676038292" TEXT="Topics"/>
 <node CREATED="1500676005300" ID="ID_385941196" MODIFIED="1500676049687" TEXT="On Sophistical Refutations"/>
 </node>
-<node CREATED="1500676063484" ID="ID_526395502" MODIFIED="1501194048749" POSITION="left" TEXT="Key Concepts">
-<node CREATED="1501005907882" FOLDED="true" ID="ID_243717162" MODIFIED="1501110920746" TEXT="endoxa and phainomena">
-<node CREATED="1501005922807" ID="ID_80854334" MODIFIED="1501110363288" TEXT="endoxa">
-<node CREATED="1501108944905" ID="ID_51492183" MODIFIED="1501108953830" TEXT="def">
-<font NAME="SansSerif" SIZE="10"/>
-<node CREATED="1501108957604" ID="ID_115381481" MODIFIED="1501109078372" TEXT="Opinions of the public which have withstood scrutiny "/>
-</node>
-<node CREATED="1501108954424" ID="ID_1394653016" MODIFIED="1501109049072" TEXT="Found in &apos;Topics&apos; and &apos;Rhetoric&apos;"/>
-<node CREATED="1501110370107" ID="ID_1991690615" MODIFIED="1501110380021" TEXT="a subclass of phainomena"/>
-</node>
-<node CREATED="1501109671322" FOLDED="true" ID="ID_1445832588" MODIFIED="1501109874834" TEXT="phainomena">
-<node CREATED="1501109676995" ID="ID_416255950" MODIFIED="1501109679207" TEXT="def">
-<node CREATED="1501109679209" ID="ID_437717261" MODIFIED="1501109699322" TEXT="the things appearing to be the case"/>
-</node>
-</node>
-<node CREATED="1501109490787" FOLDED="true" ID="ID_79432792" MODIFIED="1501109871827" TEXT="aporiai">
-<node CREATED="1501109521552" ID="ID_1349715786" MODIFIED="1501109548459" TEXT="def">
-<font NAME="SansSerif" SIZE="10"/>
-<node CREATED="1501109529773" ID="ID_352248134" MODIFIED="1501109541395" TEXT="a philosophical puzzle"/>
-</node>
-</node>
-<node CREATED="1501005982202" FOLDED="true" ID="ID_504038312" MODIFIED="1501110855523" TEXT="endoxa + phainomena">
-<node CREATED="1501109901312" ID="ID_364177084" MODIFIED="1501109987609" TEXT="use phainomena to form proofs for endoxa"/>
-<node CREATED="1501110058420" ID="ID_1084923355" MODIFIED="1501110092585" TEXT="by holding endoxa against phainomena, aporiai are sometimes formed"/>
-<node CREATED="1501110746480" ID="ID_1207978621" MODIFIED="1501110770306" TEXT="proceedure">
-<font NAME="SansSerif" SIZE="10"/>
-<node CREATED="1501110772561" ID="ID_1013300030" MODIFIED="1501110813621" TEXT="1.present phainomena "/>
-<node CREATED="1501110814733" ID="ID_959172056" MODIFIED="1501110822248" TEXT="2. collect endoxa"/>
-<node CREATED="1501110823128" ID="ID_1033659662" MODIFIED="1501110837753" TEXT="3.process the aporiai"/>
-</node>
-</node>
-<node CREATED="1501110886951" ID="ID_502325093" MODIFIED="1501110914582" TEXT="takes as a given that one should not be skeptical of ones senses"/>
-</node>
-<node CREATED="1501006741485" FOLDED="true" ID="ID_882590816" MODIFIED="1501357934524" TEXT="Essentialism and homonymy">
-<node CREATED="1501195473855" FOLDED="true" ID="ID_579815546" MODIFIED="1501352373712" TEXT="Essentialism">
-<node CREATED="1501006773035" ID="ID_1278945336" MODIFIED="1501006928251" TEXT="essentialism is the belief that everything has an &apos;essense&apos; or set of properties that if one of them were to be lost, that entity would no longer exist"/>
-<node CREATED="1501194502301" ID="ID_1489444148" MODIFIED="1501194559796" TEXT="essence = what is unique to being that thing which cannot be removed"/>
-<node CREATED="1501195362980" ID="ID_1220677154" MODIFIED="1501195398443" TEXT="believes that essence of a kind can be discovered and KNOWN by dialectic"/>
-<node CREATED="1501194739272" ID="ID_1529761804" MODIFIED="1501194753798" TEXT="Modal vs Aristotelian essentialism">
-<node CREATED="1501194763636" ID="ID_1670194729" MODIFIED="1501194834661" TEXT="modal only assumes that if something loses a essence, that it will cease to exist"/>
-<node CREATED="1501194838155" ID="ID_1729082352" MODIFIED="1501194913941" TEXT="Aristotelian essentialism also states that an essence, if not contingent on another, is a primary essence">
-<node CREATED="1501195267797" ID="ID_1893319303" MODIFIED="1501195296941" TEXT="allows him to exclude extra cases of essence that might be particular"/>
-</node>
-</node>
-<node CREATED="1501195164123" ID="ID_506841612" MODIFIED="1501195198467" TEXT="a &apos;kind&apos; is a particular of a universal (Alex is a kind of the human)"/>
-</node>
-<node CREATED="1501195505969" FOLDED="true" ID="ID_631064913" MODIFIED="1501357933893" TEXT="homonymy">
-<node CREATED="1501045620616" ID="ID_545033691" MODIFIED="1501352369764" TEXT="if synonym=univocity fails, then there might still be homonym or multivocity"/>
-<node CREATED="1501352580778" ID="ID_1098855243" MODIFIED="1501352627456" TEXT="this idea of multi and uni vocity is conceptually between the theory of forms and the family resemblance of Wittenstein"/>
-<node CREATED="1501352684257" ID="ID_814651967" MODIFIED="1501352838608" TEXT="&apos;core dependent homonymy&apos; are the foundational properties"/>
-<node CREATED="1501045669136" ID="ID_12622020" MODIFIED="1501349235430" TEXT="multivocity = homonymy=&apos;being spoken in many ways&apos;"/>
-<node CREATED="1501045701775" ID="ID_124525411" MODIFIED="1501349680490" TEXT="univocity = synonym=if a and b have F, and F is used in the same way for both a and b. ">
-<node CREATED="1501349689075" ID="ID_497348481" MODIFIED="1501349781629" TEXT="in some ways this can be thought of as Aristotles revision of the theory of forms where the univocal property is the property that a single category will take on, it is not cross categorical"/>
-<node CREATED="1501350665269" ID="ID_817897790" MODIFIED="1501350781220" TEXT="can be tested with a set of sentences by paraphrasing the word and seeing if the meaning is the same"/>
-</node>
-<node CREATED="1501195531433" ID="ID_904913045" MODIFIED="1501198690299" TEXT="Aristotle denies Platonic essentialism, arguing that sameness and invarience are homonyms"/>
-<node CREATED="1501352979615" ID="ID_1431848522" MODIFIED="1501353023717" TEXT="there is not fundamental property of &apos;being&apos; because &apos;not-being&apos; is not a possible property"/>
-</node>
-</node>
-</node>
 <node CREATED="1500676122437" FOLDED="true" ID="ID_1676528214" MODIFIED="1501108398311" POSITION="right" TEXT="Historical Background">
 <node CREATED="1500676298805" ID="ID_1175046140" MODIFIED="1500676302492" TEXT="Aristotle">
 <node CREATED="1500676303965" ID="ID_806590700" MODIFIED="1500676328212" TEXT="Born 384 BC in Northern Greece"/>
@@ -202,7 +142,7 @@
 <node CREATED="1501374289913" ID="ID_1693605436" MODIFIED="1501374310346" TEXT="the four causes are sufficient for adequacy in explanation"/>
 </node>
 </node>
-<node CREATED="1501521408766" ID="ID_117998735" MODIFIED="1501521417543" POSITION="left" TEXT="hylomorphism">
+<node CREATED="1501521408766" FOLDED="true" ID="ID_117998735" MODIFIED="1501525705135" POSITION="left" TEXT="hylomorphism">
 <node CREATED="1501521477740" ID="ID_889392955" MODIFIED="1501521496373" TEXT="matter(hule) and form(eidos)">
 <node CREATED="1501522164517" ID="ID_256772600" MODIFIED="1501522170904" TEXT="form">
 <node CREATED="1501522173477" ID="ID_1593358867" MODIFIED="1501522189855" TEXT="that which makes some matter which is potientially F actually F"/>
@@ -216,6 +156,7 @@
 <node CREATED="1501521885940" ID="ID_975971546" MODIFIED="1501521908681" TEXT="all change involves something persisting and something gained or lost"/>
 <node CREATED="1501522045137" ID="ID_1145205090" MODIFIED="1501522063128" TEXT="what remains is matter and what is gained/lost is form"/>
 </node>
+<node CREATED="1501522666204" ID="ID_314987445" MODIFIED="1501522683002" TEXT="there is only accidental and substancive change"/>
 <node CREATED="1501521528549" ID="ID_1043642912" MODIFIED="1501521538333" TEXT="def">
 <font NAME="SansSerif" SIZE="10"/>
 <node CREATED="1501521542187" ID="ID_1689682562" MODIFIED="1501521566773" TEXT="ordinary objects are composites of matter and form"/>
@@ -229,6 +170,77 @@
 <node CREATED="1501522393478" ID="ID_1828789969" MODIFIED="1501522401636" TEXT="3)there are matter and from."/>
 </node>
 </node>
-<node CREATED="1501521837275" ID="ID_1734970648" MODIFIED="1501521837275" POSITION="left" TEXT=""/>
+<node CREATED="1501005907882" FOLDED="true" ID="ID_243717162" MODIFIED="1501110920746" POSITION="left" TEXT="endoxa and phainomena">
+<node CREATED="1501005922807" ID="ID_80854334" MODIFIED="1501110363288" TEXT="endoxa">
+<node CREATED="1501108944905" ID="ID_51492183" MODIFIED="1501108953830" TEXT="def">
+<font NAME="SansSerif" SIZE="10"/>
+<node CREATED="1501108957604" ID="ID_115381481" MODIFIED="1501109078372" TEXT="Opinions of the public which have withstood scrutiny "/>
+</node>
+<node CREATED="1501108954424" ID="ID_1394653016" MODIFIED="1501109049072" TEXT="Found in &apos;Topics&apos; and &apos;Rhetoric&apos;"/>
+<node CREATED="1501110370107" ID="ID_1991690615" MODIFIED="1501110380021" TEXT="a subclass of phainomena"/>
+</node>
+<node CREATED="1501109671322" FOLDED="true" ID="ID_1445832588" MODIFIED="1501109874834" TEXT="phainomena">
+<node CREATED="1501109676995" ID="ID_416255950" MODIFIED="1501109679207" TEXT="def">
+<node CREATED="1501109679209" ID="ID_437717261" MODIFIED="1501109699322" TEXT="the things appearing to be the case"/>
+</node>
+</node>
+<node CREATED="1501109490787" FOLDED="true" ID="ID_79432792" MODIFIED="1501109871827" TEXT="aporiai">
+<node CREATED="1501109521552" ID="ID_1349715786" MODIFIED="1501109548459" TEXT="def">
+<font NAME="SansSerif" SIZE="10"/>
+<node CREATED="1501109529773" ID="ID_352248134" MODIFIED="1501109541395" TEXT="a philosophical puzzle"/>
+</node>
+</node>
+<node CREATED="1501005982202" FOLDED="true" ID="ID_504038312" MODIFIED="1501110855523" TEXT="endoxa + phainomena">
+<node CREATED="1501109901312" ID="ID_364177084" MODIFIED="1501109987609" TEXT="use phainomena to form proofs for endoxa"/>
+<node CREATED="1501110058420" ID="ID_1084923355" MODIFIED="1501110092585" TEXT="by holding endoxa against phainomena, aporiai are sometimes formed"/>
+<node CREATED="1501110746480" ID="ID_1207978621" MODIFIED="1501110770306" TEXT="proceedure">
+<font NAME="SansSerif" SIZE="10"/>
+<node CREATED="1501110772561" ID="ID_1013300030" MODIFIED="1501110813621" TEXT="1.present phainomena "/>
+<node CREATED="1501110814733" ID="ID_959172056" MODIFIED="1501110822248" TEXT="2. collect endoxa"/>
+<node CREATED="1501110823128" ID="ID_1033659662" MODIFIED="1501110837753" TEXT="3.process the aporiai"/>
+</node>
+</node>
+<node CREATED="1501110886951" ID="ID_502325093" MODIFIED="1501110914582" TEXT="takes as a given that one should not be skeptical of ones senses"/>
+</node>
+<node CREATED="1501006741485" FOLDED="true" ID="ID_882590816" MODIFIED="1501357934524" POSITION="left" TEXT="Essentialism and homonymy">
+<node CREATED="1501195473855" FOLDED="true" ID="ID_579815546" MODIFIED="1501352373712" TEXT="Essentialism">
+<node CREATED="1501006773035" ID="ID_1278945336" MODIFIED="1501006928251" TEXT="essentialism is the belief that everything has an &apos;essense&apos; or set of properties that if one of them were to be lost, that entity would no longer exist"/>
+<node CREATED="1501194502301" ID="ID_1489444148" MODIFIED="1501194559796" TEXT="essence = what is unique to being that thing which cannot be removed"/>
+<node CREATED="1501195362980" ID="ID_1220677154" MODIFIED="1501195398443" TEXT="believes that essence of a kind can be discovered and KNOWN by dialectic"/>
+<node CREATED="1501194739272" ID="ID_1529761804" MODIFIED="1501194753798" TEXT="Modal vs Aristotelian essentialism">
+<node CREATED="1501194763636" ID="ID_1670194729" MODIFIED="1501194834661" TEXT="modal only assumes that if something loses a essence, that it will cease to exist"/>
+<node CREATED="1501194838155" ID="ID_1729082352" MODIFIED="1501194913941" TEXT="Aristotelian essentialism also states that an essence, if not contingent on another, is a primary essence">
+<node CREATED="1501195267797" ID="ID_1893319303" MODIFIED="1501195296941" TEXT="allows him to exclude extra cases of essence that might be particular"/>
+</node>
+</node>
+<node CREATED="1501195164123" ID="ID_506841612" MODIFIED="1501195198467" TEXT="a &apos;kind&apos; is a particular of a universal (Alex is a kind of the human)"/>
+</node>
+<node CREATED="1501195505969" FOLDED="true" ID="ID_631064913" MODIFIED="1501357933893" TEXT="homonymy">
+<node CREATED="1501045620616" ID="ID_545033691" MODIFIED="1501352369764" TEXT="if synonym=univocity fails, then there might still be homonym or multivocity"/>
+<node CREATED="1501352580778" ID="ID_1098855243" MODIFIED="1501352627456" TEXT="this idea of multi and uni vocity is conceptually between the theory of forms and the family resemblance of Wittenstein"/>
+<node CREATED="1501352684257" ID="ID_814651967" MODIFIED="1501352838608" TEXT="&apos;core dependent homonymy&apos; are the foundational properties"/>
+<node CREATED="1501045669136" ID="ID_12622020" MODIFIED="1501349235430" TEXT="multivocity = homonymy=&apos;being spoken in many ways&apos;"/>
+<node CREATED="1501045701775" ID="ID_124525411" MODIFIED="1501349680490" TEXT="univocity = synonym=if a and b have F, and F is used in the same way for both a and b. ">
+<node CREATED="1501349689075" ID="ID_497348481" MODIFIED="1501349781629" TEXT="in some ways this can be thought of as Aristotles revision of the theory of forms where the univocal property is the property that a single category will take on, it is not cross categorical"/>
+<node CREATED="1501350665269" ID="ID_817897790" MODIFIED="1501350781220" TEXT="can be tested with a set of sentences by paraphrasing the word and seeing if the meaning is the same"/>
+</node>
+<node CREATED="1501195531433" ID="ID_904913045" MODIFIED="1501198690299" TEXT="Aristotle denies Platonic essentialism, arguing that sameness and invarience are homonyms"/>
+<node CREATED="1501352979615" ID="ID_1431848522" MODIFIED="1501353023717" TEXT="there is not fundamental property of &apos;being&apos; because &apos;not-being&apos; is not a possible property"/>
+</node>
+</node>
+<node CREATED="1501526365093" ID="ID_1086471827" MODIFIED="1501526375675" POSITION="left" TEXT="teleology">
+<node CREATED="1501526508330" ID="ID_1853735815" MODIFIED="1501526534492" TEXT="operative cause">
+<node CREATED="1501526515352" ID="ID_1822412189" MODIFIED="1501526561122" TEXT="a cause which might not be the entire cause, but contributes to the cause"/>
+</node>
+<node CREATED="1501526563859" ID="ID_1115811683" MODIFIED="1501526580033" TEXT="efficient cause">
+<node CREATED="1501526696526" ID="ID_711325544" MODIFIED="1501526750600" TEXT="prior conditions, events, entities considered to have caused a thing"/>
+</node>
+<node CREATED="1501527025207" ID="ID_52718939" MODIFIED="1501527098269" TEXT="theory of forms fails because it does not account for change and generation"/>
+<node CREATED="1501527235142" ID="ID_313678919" MODIFIED="1501527258133" TEXT="potentialities are made actual by actualities"/>
+<node CREATED="1501527342629" ID="ID_1626458483" MODIFIED="1501527356875" TEXT="nature exhibits teleogy without design"/>
+<node CREATED="1501527420260" ID="ID_946595428" MODIFIED="1501527451250" TEXT="not only are teeth for chewing food, but people are for a specific thing as well"/>
+<node CREATED="1501527485636" ID="ID_1465799836" MODIFIED="1501527503730" TEXT="humans are designed... but not by a designer with a specific intention"/>
+</node>
+<node CREATED="1501527021799" ID="ID_535495180" MODIFIED="1501527021799" POSITION="left" TEXT=""/>
 </node>
 </map>
