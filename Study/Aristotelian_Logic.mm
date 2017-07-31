@@ -181,7 +181,7 @@
 <node CREATED="1501372600507" ID="ID_933724966" MODIFIED="1501372722030" TEXT="the essences are the basic concepts that when combined will create truthvalue statements. They are like terms"/>
 <node CREATED="1501373614487" ID="ID_199484911" MODIFIED="1501373636096" TEXT="all the categories are contingent on substance"/>
 </node>
-<node CREATED="1501373722224" ID="ID_1736069302" MODIFIED="1501373737592" POSITION="left" TEXT="Four Causal explanatory scheme">
+<node CREATED="1501373722224" FOLDED="true" ID="ID_1736069302" MODIFIED="1501521400211" POSITION="left" TEXT="Four Causal explanatory scheme">
 <node CREATED="1501373873032" FOLDED="true" ID="ID_28308706" MODIFIED="1501374196579" TEXT="explaining cause">
 <node CREATED="1501374010404" ID="ID_994203868" MODIFIED="1501374016030" TEXT="material">
 <node CREATED="1501374031157" ID="ID_223536908" MODIFIED="1501374067940" TEXT="that from which something comes or is made of (the bronze of a statue)"/>
@@ -202,5 +202,33 @@
 <node CREATED="1501374289913" ID="ID_1693605436" MODIFIED="1501374310346" TEXT="the four causes are sufficient for adequacy in explanation"/>
 </node>
 </node>
+<node CREATED="1501521408766" ID="ID_117998735" MODIFIED="1501521417543" POSITION="left" TEXT="hylomorphism">
+<node CREATED="1501521477740" ID="ID_889392955" MODIFIED="1501521496373" TEXT="matter(hule) and form(eidos)">
+<node CREATED="1501522164517" ID="ID_256772600" MODIFIED="1501522170904" TEXT="form">
+<node CREATED="1501522173477" ID="ID_1593358867" MODIFIED="1501522189855" TEXT="that which makes some matter which is potientially F actually F"/>
+</node>
+<node CREATED="1501522193168" ID="ID_122318826" MODIFIED="1501522197738" TEXT="matter">
+<node CREATED="1501522199707" ID="ID_342482146" MODIFIED="1501522221327" TEXT="that which persists and which is, for some range of Fs, potentially F"/>
+</node>
+</node>
+<node CREATED="1501522088025" ID="ID_1603264176" MODIFIED="1501522094864" TEXT="potentiality and actuality"/>
+<node CREATED="1501521842211" ID="ID_1639056889" MODIFIED="1501521868498" TEXT="used to solve issues of the concept change">
+<node CREATED="1501521885940" ID="ID_975971546" MODIFIED="1501521908681" TEXT="all change involves something persisting and something gained or lost"/>
+<node CREATED="1501522045137" ID="ID_1145205090" MODIFIED="1501522063128" TEXT="what remains is matter and what is gained/lost is form"/>
+</node>
+<node CREATED="1501521528549" ID="ID_1043642912" MODIFIED="1501521538333" TEXT="def">
+<font NAME="SansSerif" SIZE="10"/>
+<node CREATED="1501521542187" ID="ID_1689682562" MODIFIED="1501521566773" TEXT="ordinary objects are composites of matter and form"/>
+<node CREATED="1501521700340" ID="ID_506601045" MODIFIED="1501521716532" TEXT="in other words, all things are composed of a from and a material"/>
+</node>
+<node CREATED="1501522348494" ID="ID_389858952" MODIFIED="1501522356766" TEXT="arguement for matter and form ">
+<node CREATED="1501522358484" ID="ID_1484441275" MODIFIED="1501522382181" TEXT="1) a necessary condition of there being change is the existence of matter and form"/>
+<node CREATED="1501522382958" ID="ID_725692248" MODIFIED="1501522392406" TEXT="2) there is change">
+<node CREATED="1501522444757" ID="ID_994633449" MODIFIED="1501522453412" TEXT="the is a phainomenon"/>
+</node>
+<node CREATED="1501522393478" ID="ID_1828789969" MODIFIED="1501522401636" TEXT="3)there are matter and from."/>
+</node>
+</node>
+<node CREATED="1501521837275" ID="ID_1734970648" MODIFIED="1501521837275" POSITION="left" TEXT=""/>
 </node>
 </map>
