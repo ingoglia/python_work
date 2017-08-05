@@ -248,19 +248,23 @@
 </node>
 </node>
 <node CREATED="1500675958185" ID="ID_1291191496" MODIFIED="1501794901448" POSITION="right" TEXT="Organon">
-<node CREATED="1500675992041" ID="ID_1792719775" MODIFIED="1501795329058" TEXT="Categories">
-<node CREATED="1501794926974" ID="ID_809211435" MODIFIED="1501795734481" TEXT="classification of beings">
-<node CREATED="1501795396278" FOLDED="true" ID="ID_1829607486" MODIFIED="1501796100789" TEXT="said of">
+<node CREATED="1500675992041" ID="ID_1792719775" MODIFIED="1501890994974" TEXT="Categories">
+<node CREATED="1501794926974" ID="ID_809211435" MODIFIED="1501891001891" TEXT="classification of beings">
+<node CREATED="1501795396278" ID="ID_1829607486" MODIFIED="1501891003942" TEXT="said of">
 <node CREATED="1501795435363" ID="ID_55302312" MODIFIED="1501795458193" TEXT="any being is said of or not said of another"/>
-<node CREATED="1501795586512" ID="ID_495414933" MODIFIED="1501795619574" TEXT="to be said of others is to be universal"/>
-<node CREATED="1501795620600" ID="ID_539103706" MODIFIED="1501795641669" TEXT="not to be said of others are particulars"/>
+<node CREATED="1501795586512" ID="ID_495414933" MODIFIED="1501891375891" TEXT="to be said of = universal">
+<node CREATED="1501891824568" ID="ID_309245600" MODIFIED="1501891848160" TEXT="typically implies that when applied to a subject, it will both name and define that subject"/>
 </node>
-<node CREATED="1501795402290" FOLDED="true" ID="ID_993942397" MODIFIED="1501805198114" TEXT="present in">
+<node CREATED="1501795620600" ID="ID_539103706" MODIFIED="1501891384716" TEXT="not to be said of =  particulars"/>
+</node>
+<node CREATED="1501795402290" ID="ID_993942397" MODIFIED="1501891087185" TEXT="present in">
 <node CREATED="1501795469390" ID="ID_397509467" MODIFIED="1501795484246" TEXT="any being is present in or not present in another"/>
-<node CREATED="1501795654904" ID="ID_765132715" MODIFIED="1501795667470" TEXT="to be present in is to be accidental"/>
+<node CREATED="1501795654904" ID="ID_765132715" MODIFIED="1501891897519" TEXT="to be present in = accidental">
+<node CREATED="1501891901754" ID="ID_1101191932" MODIFIED="1501891916839" TEXT="will not define or name a subject except by accident"/>
+</node>
 <node CREATED="1501795668591" ID="ID_243520685" MODIFIED="1501804826742" TEXT="to not be present in is to be non-accidental and a secondary substance"/>
 </node>
-<node CREATED="1501795846910" FOLDED="true" ID="ID_821978620" MODIFIED="1501805197140" TEXT="4 fold system of classification">
+<node CREATED="1501795846910" FOLDED="true" ID="ID_821978620" MODIFIED="1501891499914" TEXT="4 fold system of classification">
 <node CREATED="1501795874327" ID="ID_1933435852" MODIFIED="1501796015267" TEXT="accidental universal = said of and present in">
 <node CREATED="1501805023494" ID="ID_391504572" MODIFIED="1501805074084" TEXT="ex: knowlege or whiteness"/>
 </node>
@@ -272,15 +276,15 @@
 <node CREATED="1501795905645" ID="ID_1676292719" MODIFIED="1501798012849" TEXT="accidental particular = said of and not present in">
 <node CREATED="1501804730931" ID="ID_1281751175" MODIFIED="1501804794406" TEXT="the is a secondary substance"/>
 </node>
-<node CREATED="1501795912310" FOLDED="true" ID="ID_1553749866" MODIFIED="1501797422871" TEXT="non-accidental particular = not said of and not present in">
+<node CREATED="1501795912310" ID="ID_1553749866" MODIFIED="1501891140103" TEXT="non-accidental particular = not said of and not present in">
 <node CREATED="1501796153158" ID="ID_1917573759" MODIFIED="1501796173497" TEXT="primary substance"/>
 <node CREATED="1501796234346" ID="ID_1254472263" MODIFIED="1501796243296" TEXT="ex: a particular horse or man"/>
 <node CREATED="1501796375361" ID="ID_1139956150" MODIFIED="1501796382223" TEXT="somehow fundamental"/>
 </node>
 </node>
-<node CREATED="1501805179965" ID="ID_10742465" MODIFIED="1501805226682" TEXT="10 fold division (of things that are said)">
+<node CREATED="1501805179965" FOLDED="true" ID="ID_10742465" MODIFIED="1501891501043" TEXT="10 fold division (of things that are said)">
 <node CREATED="1501805202856" ID="ID_501433840" MODIFIED="1501805287113" TEXT="can be thought of as a predicate"/>
-<node CREATED="1501371990459" ID="ID_1423989785" MODIFIED="1501812221604" TEXT="list of categories">
+<node CREATED="1501371990459" FOLDED="true" ID="ID_1423989785" MODIFIED="1501887311215" TEXT="list of categories">
 <node CREATED="1501372015417" FOLDED="true" ID="ID_1622225199" MODIFIED="1501812997389" TEXT="substance">
 <node CREATED="1501372971989" ID="ID_1465775725" MODIFIED="1501372978503" TEXT="man, horse"/>
 <node CREATED="1501812276072" ID="ID_1741518376" MODIFIED="1501812286079" TEXT="the fundamental category"/>
@@ -305,7 +309,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1501372024872" ID="ID_760145364" MODIFIED="1501372029160" TEXT="quantity">
+<node CREATED="1501372024872" FOLDED="true" ID="ID_760145364" MODIFIED="1501887241142" TEXT="quantity">
 <node CREATED="1501373003917" ID="ID_35758096" MODIFIED="1501373011647" TEXT="two-feet long"/>
 <node CREATED="1501813509845" ID="ID_1478445981" MODIFIED="1501813542492" TEXT="issues which arise with quantity ">
 <node CREATED="1501813544651" ID="ID_1915822869" MODIFIED="1501813583572" TEXT="what is a &apos;number&apos; what is meant by &apos;discrete&apos;"/>
@@ -325,7 +329,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1501372029728" ID="ID_1257360942" MODIFIED="1501372037463" TEXT="relative">
+<node CREATED="1501372029728" FOLDED="true" ID="ID_1257360942" MODIFIED="1501887239687" TEXT="relative">
 <node CREATED="1501373018593" ID="ID_361093624" MODIFIED="1501373030495" TEXT="double, slave"/>
 <node CREATED="1501814586596" ID="ID_1377243498" MODIFIED="1501814592083" TEXT="things toward something">
 <node CREATED="1501814700507" ID="ID_373845522" MODIFIED="1501814742466" TEXT="a relational predicate applies to them"/>
@@ -346,6 +350,12 @@
 </node>
 <node CREATED="1501373111391" ID="ID_1449382158" MODIFIED="1501373114309" TEXT="quality">
 <node CREATED="1501373117048" ID="ID_195527630" MODIFIED="1501373122781" TEXT="white, grammatical"/>
+<node CREATED="1501887244999" FOLDED="true" ID="ID_503418495" MODIFIED="1501887302798" TEXT="types">
+<node CREATED="1501887250697" ID="ID_315636049" MODIFIED="1501887259212" TEXT="habits and disposition"/>
+<node CREATED="1501887260069" ID="ID_880985588" MODIFIED="1501887275671" TEXT="natural capabilities and incpabilities"/>
+<node CREATED="1501887276301" ID="ID_1752652405" MODIFIED="1501887297719" TEXT="affective qualities and affections"/>
+<node CREATED="1501887298476" ID="ID_260120216" MODIFIED="1501887300832" TEXT="shape"/>
+</node>
 </node>
 <node CREATED="1501373083663" ID="ID_576179760" MODIFIED="1501373093165" TEXT="having">
 <node CREATED="1501373099140" ID="ID_326021986" MODIFIED="1501373102901" TEXT="has shoes on"/>
@@ -374,6 +384,99 @@
 <node CREATED="1501806762335" ID="ID_466382111" MODIFIED="1501806782374" TEXT="can be constructed from a genus and a set of differentiae"/>
 </node>
 </node>
+</node>
+</node>
+<node CREATED="1501887321709" FOLDED="true" ID="ID_922322275" MODIFIED="1501889379550" TEXT="oppositions and defenses">
+<node CREATED="1501887345283" ID="ID_866244745" MODIFIED="1501887356796" TEXT="external attack">
+<node CREATED="1501887373612" ID="ID_556314225" MODIFIED="1501887390876" TEXT="does the system depend on something ungrounded">
+<node CREATED="1501887397635" ID="ID_1742214266" MODIFIED="1501887400263" TEXT="yes">
+<node CREATED="1501887406111" ID="ID_951111701" MODIFIED="1501887415059" TEXT="idealist"/>
+</node>
+<node CREATED="1501887401276" ID="ID_1434051071" MODIFIED="1501887403012" TEXT="no">
+<node CREATED="1501887419543" ID="ID_766550573" MODIFIED="1501887425132" TEXT="realist"/>
+<node CREATED="1501887430908" ID="ID_1827133829" MODIFIED="1501887438516" TEXT="this is Aristotles perspective"/>
+</node>
+</node>
+</node>
+<node CREATED="1501887357380" ID="ID_1657953180" MODIFIED="1501887362724" TEXT="internal attack">
+<node CREATED="1501887446681" ID="ID_1240506673" MODIFIED="1501887457250" TEXT="what is the justifiction of the systme"/>
+</node>
+<node CREATED="1501887470515" FOLDED="true" ID="ID_1632884717" MODIFIED="1501888129087" TEXT="4 major defences">
+<node CREATED="1501887479409" FOLDED="true" ID="ID_707204560" MODIFIED="1501887824720" TEXT="the question approach">
+<node CREATED="1501887533861" ID="ID_1199018466" MODIFIED="1501887546026" TEXT="2 ways to generate categories">
+<node CREATED="1501887548010" ID="ID_1277266991" MODIFIED="1501887557978" TEXT="ask- &apos;what is it?&apos; "/>
+<node CREATED="1501887558538" ID="ID_1436400671" MODIFIED="1501887576337" TEXT="ask- what is the thing we said &apos;it&apos; was."/>
+<node CREATED="1501887578650" ID="ID_720905464" MODIFIED="1501887606417" TEXT="ex: socrates is a human, what is a human?"/>
+</node>
+<node CREATED="1501887624482" ID="ID_1824149400" MODIFIED="1501887633473" TEXT="this will lead to the highest kinds"/>
+<node CREATED="1501887710308" ID="ID_1733804858" MODIFIED="1501887733395" TEXT="problem: certain answers are not clear in where they fit( yes or no questions)"/>
+<node CREATED="1501887736644" ID="ID_1510676057" MODIFIED="1501887780707" TEXT="this is the most likely Aristotelian perspective based on the text"/>
+<node CREATED="1501887793315" ID="ID_645349534" MODIFIED="1501887817482" TEXT="doesnt respond to the question of if these highest kinds have any metaphysical value"/>
+</node>
+<node CREATED="1501887489755" FOLDED="true" ID="ID_1454006458" MODIFIED="1501887898669" TEXT="the gramatical approach">
+<node CREATED="1501887828235" ID="ID_1056884862" MODIFIED="1501887838985" TEXT="1846"/>
+<node CREATED="1501887839523" ID="ID_1982966821" MODIFIED="1501887854873" TEXT="generated list from structures of language"/>
+<node CREATED="1501887855331" ID="ID_1193372884" MODIFIED="1501887881441" TEXT="assumes language mirrors the structure of the universe"/>
+<node CREATED="1501887882027" ID="ID_452411983" MODIFIED="1501887892657" TEXT="trouble: how can we assume that"/>
+</node>
+<node CREATED="1501887499987" FOLDED="true" ID="ID_914024358" MODIFIED="1501887972929" TEXT="the modal approach">
+<node CREATED="1501887902231" ID="ID_1096769567" MODIFIED="1501887923649" TEXT="categories are the types of entities to which a sensible particular must be related"/>
+<node CREATED="1501887924690" ID="ID_1917023854" MODIFIED="1501887926928" TEXT="1853"/>
+<node CREATED="1501887927674" ID="ID_702136638" MODIFIED="1501887944840" TEXT="entities to which any sensible particular must be related."/>
+<node CREATED="1501887945338" ID="ID_424823457" MODIFIED="1501887955376" TEXT="eliminates contingency on anything"/>
+<node CREATED="1501887956986" ID="ID_1385558243" MODIFIED="1501887970184" TEXT="fails in the same way as the qustions approach"/>
+</node>
+<node CREATED="1501887507955" FOLDED="true" ID="ID_1002785336" MODIFIED="1501888127833" TEXT="the medieval derivational approach">
+<node CREATED="1501887977755" ID="ID_261030646" MODIFIED="1501887997456" TEXT="the highest kinds are derivable by a priori arguments"/>
+<node CREATED="1501887998401" FOLDED="true" ID="ID_1639741440" MODIFIED="1501888126667" TEXT="derivisions are abou how predicates are being taken as subject either:">
+<node CREATED="1501888030132" ID="ID_566830206" MODIFIED="1501888044215" TEXT="essentially and absolutely">
+<node CREATED="1501888046930" ID="ID_303794550" MODIFIED="1501888050383" TEXT="quality">
+<node CREATED="1501888069440" ID="ID_1370103436" MODIFIED="1501888074855" TEXT="flows from form"/>
+</node>
+<node CREATED="1501888051817" ID="ID_224756229" MODIFIED="1501888055111" TEXT="quantity">
+<node CREATED="1501888057430" ID="ID_1667571283" MODIFIED="1501888066175" TEXT="flows from matter"/>
+</node>
+</node>
+<node CREATED="1501888085977" ID="ID_433653638" MODIFIED="1501888099079" TEXT="essentially and not absolutely">
+<node CREATED="1501888102769" ID="ID_1628729463" MODIFIED="1501888105919" TEXT="relation"/>
+</node>
+</node>
+<node CREATED="1501888109993" ID="ID_364717192" MODIFIED="1501888125270" TEXT="problem: no reason to think aristotle thought this way"/>
+</node>
+</node>
+</node>
+<node CREATED="1501889385254" FOLDED="true" ID="ID_1089001646" MODIFIED="1501890998185" TEXT="layout">
+<node CREATED="1501889392208" ID="ID_1782866971" MODIFIED="1501889396732" TEXT="chpt 1">
+<node CREATED="1501889398928" ID="ID_951825137" MODIFIED="1501889425619" TEXT="defines homonymous"/>
+<node CREATED="1501889426166" ID="ID_1322133412" MODIFIED="1501889455627" TEXT="defines synonymous"/>
+<node CREATED="1501889466813" ID="ID_1830824846" MODIFIED="1501889474851" TEXT="defines paronymous"/>
+</node>
+<node CREATED="1501889482029" ID="ID_1998296828" MODIFIED="1501889487644" TEXT="2">
+<node CREATED="1501889490298" ID="ID_1180541807" MODIFIED="1501889537251" TEXT="&apos;said of&apos; or &apos;in&apos;"/>
+<node CREATED="1501889503341" ID="ID_1828147406" MODIFIED="1501889516034" TEXT="with or without combination"/>
+<node CREATED="1501889516685" ID="ID_112212775" MODIFIED="1501889580354" TEXT="things that are:">
+<node CREATED="1501889583149" ID="ID_1919895961" MODIFIED="1501889594234" TEXT="said of a subject but not in"/>
+<node CREATED="1501889594868" ID="ID_1154351118" MODIFIED="1501889605962" TEXT="in a subject but not said of"/>
+<node CREATED="1501889606340" ID="ID_1970426758" MODIFIED="1501889616226" TEXT="both said of and in"/>
+<node CREATED="1501889616908" ID="ID_160856522" MODIFIED="1501889624274" TEXT="neither said of or in"/>
+</node>
+</node>
+<node CREATED="1501889664580" ID="ID_1794901390" MODIFIED="1501889668320" TEXT="3">
+<node CREATED="1501889668323" ID="ID_988085764" MODIFIED="1501889725809" TEXT="predication is transitive"/>
+<node CREATED="1501889731107" ID="ID_1560587576" MODIFIED="1501889780945" TEXT="differentiae are relative to their specific genera"/>
+</node>
+<node CREATED="1501889808763" ID="ID_917926074" MODIFIED="1501889810424" TEXT="4">
+<node CREATED="1501889814115" ID="ID_1157252647" MODIFIED="1501889875248" TEXT="all non combination things are one of the categories"/>
+<node CREATED="1501889895146" ID="ID_1834086565" MODIFIED="1501889909096" TEXT="there are no truth values to non-combination things"/>
+</node>
+<node CREATED="1501889922218" ID="ID_1790499285" MODIFIED="1501889923992" TEXT="5">
+<node CREATED="1501889927014" ID="ID_1537165150" MODIFIED="1501889935647" TEXT="define substance"/>
+<node CREATED="1501889973377" ID="ID_702415084" MODIFIED="1501889980031" TEXT="define secondary substances"/>
+<node CREATED="1501890757803" ID="ID_1192179187" MODIFIED="1501890771053" TEXT="no substance is in a subject"/>
+<node CREATED="1501890812154" ID="ID_1901882095" MODIFIED="1501890822871" TEXT="differentia is not a substance"/>
+<node CREATED="1501890056681" ID="ID_434605155" MODIFIED="1501890098070" TEXT="the particular is what the universal is created from, without a particular, the universal doesn&apos;t exist"/>
+<node CREATED="1501890315358" ID="ID_157996886" MODIFIED="1501890357828" TEXT="thinking hierarchically, the step that is closer to the primary substance is the best definition for it."/>
+<node CREATED="1501890395445" ID="ID_1585608778" MODIFIED="1501890483278" TEXT="no primary substance contains any more substance than another, there is no incrementing of an accidental substance, one chair is not more of a chair than another"/>
 </node>
 </node>
 </node>
