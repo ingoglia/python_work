@@ -17,7 +17,7 @@
 </node>
 <node CREATED="1501108865463" ID="ID_1053829417" MODIFIED="1501108885590" STYLE="bubble" TEXT="logic"/>
 </node>
-<node CREATED="1501794842916" ID="ID_57106803" MODIFIED="1501805753254" POSITION="left" TEXT="General Notes">
+<node CREATED="1501794842916" ID="ID_57106803" MODIFIED="1502034542075" POSITION="left" TEXT="General Notes">
 <node CREATED="1501006075625" FOLDED="true" ID="ID_1644908462" MODIFIED="1501357936513" TEXT="types of reasoning">
 <node CREATED="1501006090240" FOLDED="true" ID="ID_1641350830" MODIFIED="1501194044467" TEXT="dialectical">
 <node CREATED="1501006337248" ID="ID_177637119" MODIFIED="1501111399583" TEXT="must respect inference and logical rules"/>
@@ -259,30 +259,32 @@
 </node>
 <node CREATED="1501795402290" ID="ID_993942397" MODIFIED="1501891087185" TEXT="present in">
 <node CREATED="1501795469390" ID="ID_397509467" MODIFIED="1501795484246" TEXT="any being is present in or not present in another"/>
-<node CREATED="1501795654904" ID="ID_765132715" MODIFIED="1501891897519" TEXT="to be present in = accidental">
+<node CREATED="1501795654904" ID="ID_765132715" MODIFIED="1502036461699" TEXT="to be present in = accidental = non-essential">
 <node CREATED="1501891901754" ID="ID_1101191932" MODIFIED="1501891916839" TEXT="will not define or name a subject except by accident"/>
+<node CREATED="1502036177117" ID="ID_1950344493" MODIFIED="1502036240846" TEXT="accidental= a non-essential quality of an object (a chair can be made of wood but it doesn&apos;t have to be"/>
 </node>
 <node CREATED="1501795668591" ID="ID_243520685" MODIFIED="1501804826742" TEXT="to not be present in is to be non-accidental and a secondary substance"/>
 </node>
-<node CREATED="1501795846910" FOLDED="true" ID="ID_821978620" MODIFIED="1501891499914" TEXT="4 fold system of classification">
-<node CREATED="1501795874327" ID="ID_1933435852" MODIFIED="1501796015267" TEXT="accidental universal = said of and present in">
-<node CREATED="1501805023494" ID="ID_391504572" MODIFIED="1501805074084" TEXT="ex: knowlege or whiteness"/>
+<node CREATED="1501795846910" ID="ID_821978620" MODIFIED="1502034516513" TEXT="4 fold system of classification">
+<node CREATED="1501795912310" ID="ID_1553749866" MODIFIED="1502038323718" TEXT="primary substance=non-accidental(essential) particular = &apos;not present in&apos; and &apos;not said of&apos;">
+<node CREATED="1501796234346" ID="ID_1254472263" MODIFIED="1501796243296" TEXT="ex: a particular horse or man"/>
+<node CREATED="1502038325221" ID="ID_650467850" MODIFIED="1502038336068" TEXT="never &apos;in&apos; a subject"/>
 </node>
-<node CREATED="1501795888055" ID="ID_923318775" MODIFIED="1501796026986" TEXT="essential universal = not said of and present in">
+<node CREATED="1501795905645" ID="ID_1676292719" MODIFIED="1502038338697" TEXT="secondary substance = non-accidental(essential) universal = &apos;not present in&apos; and &apos;said of&apos;">
+<node CREATED="1502035797020" ID="ID_1881128118" MODIFIED="1502035803960" TEXT="secondary substance"/>
+<node CREATED="1502035805399" ID="ID_458369266" MODIFIED="1502037084989" TEXT="ex: man or horse as a concept"/>
+<node CREATED="1502038340117" ID="ID_952159827" MODIFIED="1502038348484" TEXT="never &apos;in&apos; a subject"/>
+</node>
+<node CREATED="1501795888055" FOLDED="true" ID="ID_923318775" MODIFIED="1502037146076" TEXT="accidental(non-essential) particular = &apos;present in&apos; and &apos;not said of&apos; ">
 <node CREATED="1501797498129" ID="ID_529015016" MODIFIED="1501797506637" TEXT="non-substantial particular"/>
 <node CREATED="1501797574751" ID="ID_85464575" MODIFIED="1501797587476" TEXT="cannot exist apart from primary substance"/>
-<node CREATED="1501797588158" ID="ID_85161697" MODIFIED="1501797598364" TEXT="ex: the whiteness of a thing"/>
+<node CREATED="1501797588158" ID="ID_85161697" MODIFIED="1502035683877" TEXT="ex: the whiteness of a &apos;particular&apos; thing"/>
 </node>
-<node CREATED="1501795905645" ID="ID_1676292719" MODIFIED="1501798012849" TEXT="accidental particular = said of and not present in">
-<node CREATED="1501804730931" ID="ID_1281751175" MODIFIED="1501804794406" TEXT="the is a secondary substance"/>
-</node>
-<node CREATED="1501795912310" ID="ID_1553749866" MODIFIED="1501891140103" TEXT="non-accidental particular = not said of and not present in">
-<node CREATED="1501796153158" ID="ID_1917573759" MODIFIED="1501796173497" TEXT="primary substance"/>
-<node CREATED="1501796234346" ID="ID_1254472263" MODIFIED="1501796243296" TEXT="ex: a particular horse or man"/>
-<node CREATED="1501796375361" ID="ID_1139956150" MODIFIED="1501796382223" TEXT="somehow fundamental"/>
+<node CREATED="1501795874327" FOLDED="true" ID="ID_1933435852" MODIFIED="1502037145409" TEXT="accidental(non-essential) universal = &apos;present in&apos; and &apos;said of&apos;">
+<node CREATED="1501805023494" ID="ID_391504572" MODIFIED="1501805074084" TEXT="ex: knowlege or whiteness"/>
 </node>
 </node>
-<node CREATED="1501805179965" FOLDED="true" ID="ID_10742465" MODIFIED="1501891501043" TEXT="10 fold division (of things that are said)">
+<node CREATED="1501805179965" ID="ID_10742465" MODIFIED="1502033907059" TEXT="10 fold division (of things that are said)">
 <node CREATED="1501805202856" ID="ID_501433840" MODIFIED="1501805287113" TEXT="can be thought of as a predicate"/>
 <node CREATED="1501371990459" FOLDED="true" ID="ID_1423989785" MODIFIED="1501887311215" TEXT="list of categories">
 <node CREATED="1501372015417" FOLDED="true" ID="ID_1622225199" MODIFIED="1501812997389" TEXT="substance">
@@ -445,7 +447,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1501889385254" FOLDED="true" ID="ID_1089001646" MODIFIED="1501890998185" TEXT="layout">
+<node CREATED="1501889385254" ID="ID_1089001646" MODIFIED="1502034089893" TEXT="layout">
 <node CREATED="1501889392208" ID="ID_1782866971" MODIFIED="1501889396732" TEXT="chpt 1">
 <node CREATED="1501889398928" ID="ID_951825137" MODIFIED="1501889425619" TEXT="defines homonymous"/>
 <node CREATED="1501889426166" ID="ID_1322133412" MODIFIED="1501889455627" TEXT="defines synonymous"/>
@@ -476,7 +478,8 @@
 <node CREATED="1501890812154" ID="ID_1901882095" MODIFIED="1501890822871" TEXT="differentia is not a substance"/>
 <node CREATED="1501890056681" ID="ID_434605155" MODIFIED="1501890098070" TEXT="the particular is what the universal is created from, without a particular, the universal doesn&apos;t exist"/>
 <node CREATED="1501890315358" ID="ID_157996886" MODIFIED="1501890357828" TEXT="thinking hierarchically, the step that is closer to the primary substance is the best definition for it."/>
-<node CREATED="1501890395445" ID="ID_1585608778" MODIFIED="1501890483278" TEXT="no primary substance contains any more substance than another, there is no incrementing of an accidental substance, one chair is not more of a chair than another"/>
+<node CREATED="1501890395445" ID="ID_1585608778" MODIFIED="1502034280822" TEXT="no primary substance contains any more substance than another, there is no incrementing of an accidental substance, one animal is not more essential then another"/>
+<node CREATED="1502040147936" ID="ID_535490185" MODIFIED="1502040325354" TEXT="alll things from substances and differenteia are synonymous (name in common and same definition)"/>
 </node>
 </node>
 </node>
