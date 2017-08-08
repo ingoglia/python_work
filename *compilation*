@@ -1,0 +1,9 @@
+-*- mode: compilation; default-directory: "~/Sync/python_work/" -*-
+Compilation started at Tue Aug  8 12:02:19
+
+python3 my_electric_car.py 
+2016 Tesla Model S
+This car has a 70-kWh battery.
+This car can go approximately 240 miles on a full charge.
+
+Compilation finished at Tue Aug  8 12:02:19
