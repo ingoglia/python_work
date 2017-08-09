@@ -448,12 +448,12 @@
 </node>
 </node>
 <node CREATED="1501889385254" ID="ID_1089001646" MODIFIED="1502034089893" TEXT="layout">
-<node CREATED="1501889392208" ID="ID_1782866971" MODIFIED="1501889396732" TEXT="chpt 1">
+<node CREATED="1501889392208" FOLDED="true" ID="ID_1782866971" MODIFIED="1502237908148" TEXT="chpt 1">
 <node CREATED="1501889398928" ID="ID_951825137" MODIFIED="1501889425619" TEXT="defines homonymous"/>
 <node CREATED="1501889426166" ID="ID_1322133412" MODIFIED="1501889455627" TEXT="defines synonymous"/>
 <node CREATED="1501889466813" ID="ID_1830824846" MODIFIED="1501889474851" TEXT="defines paronymous"/>
 </node>
-<node CREATED="1501889482029" ID="ID_1998296828" MODIFIED="1501889487644" TEXT="2">
+<node CREATED="1501889482029" FOLDED="true" ID="ID_1998296828" MODIFIED="1502237906944" TEXT="2">
 <node CREATED="1501889490298" ID="ID_1180541807" MODIFIED="1501889537251" TEXT="&apos;said of&apos; or &apos;in&apos;"/>
 <node CREATED="1501889503341" ID="ID_1828147406" MODIFIED="1501889516034" TEXT="with or without combination"/>
 <node CREATED="1501889516685" ID="ID_112212775" MODIFIED="1501889580354" TEXT="things that are:">
@@ -463,15 +463,15 @@
 <node CREATED="1501889616908" ID="ID_160856522" MODIFIED="1501889624274" TEXT="neither said of or in"/>
 </node>
 </node>
-<node CREATED="1501889664580" ID="ID_1794901390" MODIFIED="1501889668320" TEXT="3">
+<node CREATED="1501889664580" FOLDED="true" ID="ID_1794901390" MODIFIED="1502237905816" TEXT="3">
 <node CREATED="1501889668323" ID="ID_988085764" MODIFIED="1501889725809" TEXT="predication is transitive"/>
 <node CREATED="1501889731107" ID="ID_1560587576" MODIFIED="1501889780945" TEXT="differentiae are relative to their specific genera"/>
 </node>
-<node CREATED="1501889808763" ID="ID_917926074" MODIFIED="1501889810424" TEXT="4">
+<node CREATED="1501889808763" FOLDED="true" ID="ID_917926074" MODIFIED="1502237905034" TEXT="4">
 <node CREATED="1501889814115" ID="ID_1157252647" MODIFIED="1501889875248" TEXT="all non combination things are one of the categories"/>
 <node CREATED="1501889895146" ID="ID_1834086565" MODIFIED="1501889909096" TEXT="there are no truth values to non-combination things"/>
 </node>
-<node CREATED="1501889922218" ID="ID_1790499285" MODIFIED="1501889923992" TEXT="5">
+<node CREATED="1501889922218" FOLDED="true" ID="ID_1790499285" MODIFIED="1502237900748" TEXT="5">
 <node CREATED="1501889927014" ID="ID_1537165150" MODIFIED="1501889935647" TEXT="define substance"/>
 <node CREATED="1501889973377" ID="ID_702415084" MODIFIED="1501889980031" TEXT="define secondary substances"/>
 <node CREATED="1501890757803" ID="ID_1192179187" MODIFIED="1501890771053" TEXT="no substance is in a subject"/>
@@ -480,7 +480,27 @@
 <node CREATED="1501890315358" ID="ID_157996886" MODIFIED="1501890357828" TEXT="thinking hierarchically, the step that is closer to the primary substance is the best definition for it."/>
 <node CREATED="1501890395445" ID="ID_1585608778" MODIFIED="1502034280822" TEXT="no primary substance contains any more substance than another, there is no incrementing of an accidental substance, one animal is not more essential then another"/>
 <node CREATED="1502040147936" ID="ID_535490185" MODIFIED="1502040325354" TEXT="alll things from substances and differenteia are synonymous (name in common and same definition)"/>
+<node CREATED="1502234585817" ID="ID_1774950220" MODIFIED="1502234607010" TEXT="to be a &apos;part&apos; of a substance does not mean to be &apos;in&apos; the substance"/>
+<node CREATED="1502235876581" ID="ID_1200322922" MODIFIED="1502235978862" TEXT="primary substance speaks to a particular thing, secondary substance is a bit more complicated"/>
+<node CREATED="1502236142627" ID="ID_775376457" MODIFIED="1502236159193" TEXT="nothing is contrary to substance or quantity or many other concepts"/>
+<node CREATED="1502236240844" ID="ID_762738195" MODIFIED="1502236261577" TEXT="substance does not admit of more or less of itself. a man is no more a man than another man"/>
+<node CREATED="1502236376376" ID="ID_1108298089" MODIFIED="1502236422824" TEXT="numerically one substances can have contraries, they can be pale at one time and less pale at others, unlike qualities like red."/>
+<node CREATED="1502236612575" ID="ID_627553631" MODIFIED="1502236675835" TEXT="actions appear to be a source of change, but this is just something that happens TO a substance, the change does not occur to the action."/>
 </node>
+<node CREATED="1502236945197" FOLDED="true" ID="ID_99939102" MODIFIED="1502238136060" TEXT="6">
+<node CREATED="1502236950333" ID="ID_381250341" MODIFIED="1502236971838" TEXT="there are discrete and continuous quantities"/>
+<node CREATED="1502236977539" ID="ID_878204407" MODIFIED="1502236984498" TEXT="number and language are discrete"/>
+<node CREATED="1502236990486" ID="ID_542430675" MODIFIED="1502237008271" TEXT="lines, surfaces andn bodies are continuous"/>
+<node CREATED="1502237044475" ID="ID_1158617960" MODIFIED="1502237085260" TEXT="what makes something continuous is it can be combined at a common boundary"/>
+<node CREATED="1502237196945" ID="ID_564015496" MODIFIED="1502237222085" TEXT="place is a continuous quantity because it is what joins all the parts of the body"/>
+<node CREATED="1502237382671" ID="ID_1285866764" MODIFIED="1502237408582" TEXT="some quantities are composed of parts that have position while others do not have position"/>
+<node CREATED="1502237519346" ID="ID_1032875309" MODIFIED="1502237537727" TEXT="quantities are not the shapes or events which posess them"/>
+<node CREATED="1502237605502" ID="ID_1335672823" MODIFIED="1502237615595" TEXT="quantities do not have contraries"/>
+<node CREATED="1502237786437" ID="ID_1542687645" MODIFIED="1502237797424" TEXT="a quantity does not admit of more or less"/>
+<node CREATED="1502237857377" ID="ID_1989905871" MODIFIED="1502237866839" TEXT="quantity is both equal and unequal"/>
+<node CREATED="1502237876517" ID="ID_44815471" MODIFIED="1502237888887" TEXT="up and down are considered contraries"/>
+</node>
+<node CREATED="1502237897055" ID="ID_1541507194" MODIFIED="1502237898481" TEXT="7"/>
 </node>
 </node>
 <node CREATED="1500675969132" ID="ID_1675557333" MODIFIED="1500675975665" TEXT="Prior Analytics"/>
