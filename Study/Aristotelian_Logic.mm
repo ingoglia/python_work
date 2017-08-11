@@ -17,7 +17,7 @@
 </node>
 <node CREATED="1501108865463" ID="ID_1053829417" MODIFIED="1501108885590" STYLE="bubble" TEXT="logic"/>
 </node>
-<node CREATED="1501794842916" ID="ID_57106803" MODIFIED="1502034542075" POSITION="left" TEXT="General Notes">
+<node CREATED="1501794842916" FOLDED="true" ID="ID_57106803" MODIFIED="1502386003065" POSITION="left" TEXT="General Notes">
 <node CREATED="1501006075625" FOLDED="true" ID="ID_1644908462" MODIFIED="1501357936513" TEXT="types of reasoning">
 <node CREATED="1501006090240" FOLDED="true" ID="ID_1641350830" MODIFIED="1501194044467" TEXT="dialectical">
 <node CREATED="1501006337248" ID="ID_177637119" MODIFIED="1501111399583" TEXT="must respect inference and logical rules"/>
@@ -500,7 +500,70 @@
 <node CREATED="1502237857377" ID="ID_1989905871" MODIFIED="1502237866839" TEXT="quantity is both equal and unequal"/>
 <node CREATED="1502237876517" ID="ID_44815471" MODIFIED="1502237888887" TEXT="up and down are considered contraries"/>
 </node>
-<node CREATED="1502237897055" ID="ID_1541507194" MODIFIED="1502237898481" TEXT="7"/>
+<node CREATED="1502237897055" FOLDED="true" ID="ID_1541507194" MODIFIED="1502397997008" TEXT="7">
+<node CREATED="1502386014348" ID="ID_728015108" MODIFIED="1502386167706" TEXT="there is contrariety in relatives but not all of them"/>
+<node CREATED="1502386168055" ID="ID_22207427" MODIFIED="1502386185299" TEXT="relatives are &apos;of&apos; for &apos;than&apos; something"/>
+<node CREATED="1502386186353" ID="ID_211442254" MODIFIED="1502386619100" TEXT="parts are not relative to their bodies"/>
+<node CREATED="1502387087515" ID="ID_132782280" MODIFIED="1502387112555" TEXT="a hand is no longer a hand if it is severed from the whole, because the whole comes first"/>
+<node CREATED="1502387180623" ID="ID_682055507" MODIFIED="1502387188326" TEXT="substances are not relatives"/>
+</node>
+<node CREATED="1502387213770" FOLDED="true" ID="ID_1540987936" MODIFIED="1502398009641" TEXT="8">
+<node CREATED="1502387216571" ID="ID_1401531316" MODIFIED="1502387546228" TEXT="qualities can be spoken of in different ways"/>
+<node CREATED="1502387659261" ID="ID_1116517290" MODIFIED="1502387701446" TEXT="&apos;state&apos; is a quality that lasts, like virtue or personality"/>
+<node CREATED="1502387702124" ID="ID_385672609" MODIFIED="1502387724352" TEXT="&apos;condition; is a quality that changes quickly, like health"/>
+<node CREATED="1502387993212" ID="ID_1705370824" MODIFIED="1502388012876" TEXT="a &apos;condition&apos; is a sub-class of a &apos;state&apos;"/>
+<node CREATED="1502388622624" ID="ID_1894529304" MODIFIED="1502388653581" TEXT="to be naturally good at something, is to have that quality, the boxer is good at boxing because they are inclined ot it naturally"/>
+<node CREATED="1502389112089" ID="ID_1451253380" MODIFIED="1502389174407" TEXT="there are also affective qqualities and affections: a man can be angry and not and angry person"/>
+<node CREATED="1502389295404" ID="ID_1349815379" MODIFIED="1502389302516" TEXT="shapes are qualities"/>
+<node CREATED="1502389706724" ID="ID_409146298" MODIFIED="1502389747301" TEXT="things are called paronymously(derivatively) from the qualities are said to be qualified"/>
+<node CREATED="1502389812960" ID="ID_166074734" MODIFIED="1502390249619" TEXT="qualities might be more or less &apos;in&apos; something, but they are not themselves more or less"/>
+<node CREATED="1502390377344" ID="ID_294802491" MODIFIED="1502390402797" TEXT="things with the same quality can be more or less &apos;similar&apos; to each other"/>
+<node CREATED="1502391091775" ID="ID_1344142404" MODIFIED="1502391158120" TEXT="an issue arises with compound multi categorical statements &apos;a multiple of 3&apos; since it cannot be decomposed and it does not fit into a single category"/>
+</node>
+<node CREATED="1502398234073" ID="ID_1079651271" MODIFIED="1502398235346" TEXT="9">
+<node CREATED="1502398237354" ID="ID_1145161836" MODIFIED="1502398425332" TEXT="doing and being are affected by &apos;more or less&apos;"/>
+<node CREATED="1502398571074" ID="ID_2495258" MODIFIED="1502398583447" TEXT="something about being in a place vs having something..."/>
+</node>
+<node CREATED="1502398584998" ID="ID_1868662453" MODIFIED="1502398586733" TEXT="10">
+<node CREATED="1502398589907" ID="ID_583960816" MODIFIED="1502398667799" TEXT="things are opposed in 4 ways">
+<node CREATED="1502398679624" ID="ID_263834292" MODIFIED="1502398714104" TEXT="privation and possession(having and not having)">
+<node CREATED="1502399331601" ID="ID_578159660" MODIFIED="1502399340654" TEXT="an eye has sight or is sightless"/>
+<node CREATED="1502399469404" ID="ID_890656260" MODIFIED="1502399484733" TEXT="being blind and being sightless are different but similar"/>
+<node CREATED="1502399518228" ID="ID_253881539" MODIFIED="1502399534295" TEXT="these are not relatives"/>
+<node CREATED="1502399909636" ID="ID_684589634" MODIFIED="1502399921358" TEXT="cannot change from having to not having"/>
+</node>
+<node CREATED="1502398765496" ID="ID_59469247" MODIFIED="1502398768480" TEXT="relatives">
+<node CREATED="1502398783554" ID="ID_1194883512" MODIFIED="1502398823278" TEXT="these are &apos;of&apos; their opposites"/>
+<node CREATED="1502398831196" ID="ID_299991588" MODIFIED="1502398842530" TEXT="or &apos;in relation to&apos; their opposites"/>
+</node>
+<node CREATED="1502398768999" ID="ID_1412616517" MODIFIED="1502398771686" TEXT="contraries">
+<node CREATED="1502398791650" ID="ID_608519016" MODIFIED="1502398894150" TEXT="frequently &apos;contraries of&apos; one another"/>
+<node CREATED="1502398908123" ID="ID_1801806154" MODIFIED="1502398931654" TEXT="white is not &apos;of&apos; black, it is contrary of black"/>
+<node CREATED="1502399892773" ID="ID_1790347722" MODIFIED="1502399907336" TEXT="possiblie to have change from one contrary to the other"/>
+</node>
+<node CREATED="1502398687590" ID="ID_987858527" MODIFIED="1502398694551" TEXT="or affirmation and negation">
+<node CREATED="1502400009523" ID="ID_18613896" MODIFIED="1502400022644" TEXT="only one where one is true and other false"/>
+</node>
+<node CREATED="1502398694967" ID="ID_916139320" MODIFIED="1502399234213" TEXT="some contraries do not have intermediate values(even and odd number)"/>
+<node CREATED="1502399235355" ID="ID_463024061" MODIFIED="1502399269240" TEXT="some contraries to have intermediate values (black and white)"/>
+<node CREATED="1502400309832" ID="ID_1947028570" MODIFIED="1502400330144" TEXT="he thinks we can transpose the verb and noun"/>
+</node>
+</node>
+<node CREATED="1502400656221" ID="ID_757834041" MODIFIED="1502400659001" TEXT="11">
+<node CREATED="1502400659003" ID="ID_727108838" MODIFIED="1502400678846" TEXT="the contrary of a good thing is always bad"/>
+<node CREATED="1502400679398" ID="ID_266012334" MODIFIED="1502400690840" TEXT="there are a few exceptions to this relationship but not many"/>
+</node>
+<node CREATED="1502400776047" ID="ID_1024155256" MODIFIED="1502400778283" TEXT="12">
+<node CREATED="1502400778285" ID="ID_24969101" MODIFIED="1502400790602" TEXT="the order of things exists"/>
+<node CREATED="1502400875984" ID="ID_621509461" MODIFIED="1502400905681" TEXT="the fact that something exists is true does not justify where it came from"/>
+</node>
+<node CREATED="1502400932584" ID="ID_1375723200" MODIFIED="1502400934405" TEXT="13">
+<node CREATED="1502400934406" ID="ID_1927789208" MODIFIED="1502400953964" TEXT="things are said to be simultaneous if they occured at the same time"/>
+<node CREATED="1502400982669" ID="ID_1978283027" MODIFIED="1502401008238" TEXT="&apos;simultaneous by nature&apos; are reciprocates that imply one another"/>
+</node>
+<node CREATED="1502401351475" ID="ID_442471154" MODIFIED="1502401352882" TEXT="15">
+<node CREATED="1502401354593" ID="ID_1271925969" MODIFIED="1502401366955" TEXT="&apos;having&apos; is used in many ways"/>
+</node>
 </node>
 </node>
 <node CREATED="1500675969132" ID="ID_1675557333" MODIFIED="1500675975665" TEXT="Prior Analytics"/>

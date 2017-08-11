@@ -1,0 +1,10 @@
+-*- mode: compilation; default-directory: "~/Sync/python_work/" -*-
+Compilation started at Fri Aug 11 12:07:06
+
+python3 pi_string.py 
+Traceback (most recent call last):
+  File "pi_string.py", line 3, in <module>
+    with open(filename) as file_object:
+FileNotFoundError: [Errno 2] No such file or directory: 'pi_million_digits.txt'
+
+Compilation exited abnormally with code 1 at Fri Aug 11 12:07:06
