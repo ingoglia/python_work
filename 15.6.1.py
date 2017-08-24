@@ -1,4 +1,4 @@
-import matplotlib.pyplot as plt
+import pygal
 from die import Die
 
 # Create a D6.
@@ -17,17 +17,20 @@ for value in range(1, die.num_sides+1):
     frequencies.append(frequency)
 
 # Visualize the results.
+hist = pygal.Bar()
 
-die_values = [1, 2, 3, 4, 5, 6,]
-frequency_result = list(range(1, 1000))
-plt.plot(die_values, frequency_result, linewidth=5)
+hist.title = "Results of rolling one D6 1000 times."
 
-plt.title("Results of rolling one D6 1000 times.")
-plt.xlabel("Side of Die")
-plt.ylabel("Frequency")
+hist.x_labels = []
+current_label = 1
+while current_label <= 6:
+    hist.x_labels.append(current_label)
+    current_label = current_label + 1
+    
 
-plt.title = "Result"
+hist.x_title = "Result"
 hist.y_title = "Frequency of Result"
 
+hist.add('D6', frequencies)
+hist.render_to_file('die_visual.svg')
 
-plt.show()
